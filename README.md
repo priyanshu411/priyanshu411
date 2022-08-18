@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1>Hi 👋, I'm Priyanshu Gupta</h1>
+<h3>A passionate Web developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=priyanshu411&icon=5&color=6)](https://visitcount.itsvg.in)
 

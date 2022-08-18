@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.priyanshugupta.live](www.priyanshugupta.live)
+- 👨‍💻 All of my projects are available at [www.priyanshugupta.live](https://priyanshugupta.live)
 
 - 📫 How to reach me **priyanshug1999@gmail.com**
 

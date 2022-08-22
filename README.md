@@ -22,5 +22,5 @@
 <a href="https://vitejs.dev/">&nbsp;&nbsp;<img width="25" src="https://priyanshucdn.netlify.app/data/portfolio/images/vite.svg" alt="vitejs"></a>
 
 # 📈 GitHub Stats:
-![Priyanshu Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu411&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)<br/>
+![Priyanshu Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&username=priyanshu411)<br/>
 ![priyanshu gupta's streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu411&theme=tokyonight&hide_border=false)<br/>

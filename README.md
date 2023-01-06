@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Priyanshu Gupta</h2>
 <h3>A passionate Web developer from India</h3>
-<img src="https://raw.githubusercontent.com/priyanshu411/priyanshu411/output/snake.svg" alt="Snake animation" />
+
 
 <!--[![](https://visitcount.itsvg.in/api?id=priyanshu411&icon=5&color=6)](https://visitcount.itsvg.in)-->
 
